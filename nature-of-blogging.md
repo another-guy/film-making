@@ -8,4 +8,8 @@
 
 ## Define Yourself
 
-> Career development <> focusing on software developers in colleges.
+* Talk about _you_ shit, and do it well.
+
+> personal and carreer development tips for young software developers who are in college.
+
+sally hodges -- fascinate
