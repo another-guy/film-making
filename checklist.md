@@ -1,0 +1,42 @@
+# Film Making Checklist
+
+## Scene
+
+### Positioning
+
+TODO
+
+### Light
+
+* Turn on the main source of light
+* Direct the tripod/LED light the opposite direction from the scene
+* Attach proper gel filters to achieve the desired light temperature
+* Reflect the light via white foam
+
+## Video Settings
+
+* Set fps to 60
+* Set shutter speed to 1/125 (roughly 1 / (60*2) )
+* Set aperture to the desired one
+* Set ISO to 100 to achieve fine-grained image
+* Compensate the exposure via ND filter
+* Re-set AWB for the new scene
+
+## Audio
+
+* Place lav mic on cloth
+* Connect lav mic to the phone !!! DO NOT use the adapter with phone!
+* Cover the microphones with "dead cats" if necessary
+* TODO Shotgun mic settings
+
+### Appearance
+
+* Re-check the cloths
+* Tiny make up adjustments if necessary
+
+### Start
+
+* Make sure the shotgun mic is turned on
+* Three claps as syncronization points
+* Start Video Recording via camera
+* Start Audio Recording via phone
