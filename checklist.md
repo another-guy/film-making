@@ -15,12 +15,18 @@ TODO
 
 ## Video Settings
 
-* Set fps to 60
-* Set shutter speed to 1/125 (roughly 1 / (60*2) )
-* Set aperture to the desired one
+* Set fps to 24
+* Set resolution to 1920x1080
+* Set compression mode to ALL I
+* Set shutter speed to 1/50 (roughly 1 / (24*2) )
+* Set aperture to the desired one, ideally below f2.8
 * Set ISO to 100 to achieve fine-grained image
 * Compensate the exposure via ND filter
 * Re-set AWB for the new scene
+* Turn autolighter optimizer OFF
+* Turn highlight tone priority OFF
+* Set neutral color scheme with Sharpness and Contrast set to 0
+* Turn digital zoom OFF
 
 ## Audio
 
