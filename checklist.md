@@ -38,7 +38,7 @@ TODO
 ### Appearance
 
 * Re-check the cloths
-* Tiny make up adjustments if necessary
+* Make up adjustments (tiny, only if necessary)
 
 ### Start
 
